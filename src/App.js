@@ -10,7 +10,8 @@ function App() {
     <br></br>
     <br></br>
 
-    <div  style={{display:"grid", gridTemplateColumns:"300px 300px 300px 300px", gap:"10px",marginBottom:"30px", width:"100%", justifyContent:"space-evenly"}}>
+
+    <div  style={{display:"grid", gridTemplateColumns:"300px 300px 300px", gap:"10px",marginBottom:"30px", width:"100%", justifyContent:"space-evenly"}}>
       <div id="kk" >Dont worry. images coming soon</div>
       <div style={{width:"250px",height:"300px", backgroundColor:"white", boxShadow:"0 0 20px red", textAlign:"center", lineHeight:"300px"}}>Dont worry. images coming soon</div>
       <div style={{width:"250px",height:"300px", backgroundColor:"white", boxShadow:"0 0 20px pink", textAlign:"center", lineHeight:"300px"}}>Dont worry. images coming soon</div>
