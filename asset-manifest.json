@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/srr-online/static/css/main.4481678c.css",
-    "main.js": "/srr-online/static/js/main.16042e43.js",
+    "main.css": "/srr-online/static/css/main.fbeda2e1.css",
+    "main.js": "/srr-online/static/js/main.3041743a.js",
     "static/js/787.d7736932.chunk.js": "/srr-online/static/js/787.d7736932.chunk.js",
+    "static/media/srr2.jpeg": "/srr-online/static/media/srr2.9bb68f4c3fdfb72c44ef.jpeg",
+    "static/media/srr1.jpeg": "/srr-online/static/media/srr1.36cc48e09740de17caec.jpeg",
     "static/media/logo.svg": "/srr-online/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/srr-online/index.html",
-    "main.4481678c.css.map": "/srr-online/static/css/main.4481678c.css.map",
-    "main.16042e43.js.map": "/srr-online/static/js/main.16042e43.js.map",
+    "main.fbeda2e1.css.map": "/srr-online/static/css/main.fbeda2e1.css.map",
+    "main.3041743a.js.map": "/srr-online/static/js/main.3041743a.js.map",
     "787.d7736932.chunk.js.map": "/srr-online/static/js/787.d7736932.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4481678c.css",
-    "static/js/main.16042e43.js"
+    "static/css/main.fbeda2e1.css",
+    "static/js/main.3041743a.js"
   ]
 }
