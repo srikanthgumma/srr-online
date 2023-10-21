@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/srr-online/static/css/main.4481678c.css",
+    "main.js": "/srr-online/static/js/main.18202782.js",
+    "static/js/787.d7736932.chunk.js": "/srr-online/static/js/787.d7736932.chunk.js",
+    "static/media/logo.svg": "/srr-online/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/srr-online/index.html",
+    "main.4481678c.css.map": "/srr-online/static/css/main.4481678c.css.map",
+    "main.18202782.js.map": "/srr-online/static/js/main.18202782.js.map",
+    "787.d7736932.chunk.js.map": "/srr-online/static/js/787.d7736932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4481678c.css",
+    "static/js/main.18202782.js"
+  ]
+}
